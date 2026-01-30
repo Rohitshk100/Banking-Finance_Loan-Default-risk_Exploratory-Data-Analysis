@@ -18,6 +18,8 @@ The study combines data cleaning, feature engineering, univariate, bivariate, an
 
 Source: Lending loan dataset (CSV format)
 
+Dataset Link:  https://docs.google.com/spreadsheets/d/1CEr_xj8NYEhyw43hjOhPuzh0b7lF009e7OgWNL6P6MU/edit?usp=drive_link
+
 Target Variable: loan_status
 
 Fully Paid
